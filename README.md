@@ -1,16 +1,4 @@
-
-![header](https://capsule-render.vercel.app/api?  
-  ?type=waving  
-  &color=gradient  
-  &height=160  
-  &section=header  
-  &text=Hello%20World!%20I'm%20Arjun%20👋  
-  &fontSize=48  
-  &animation=fadeIn  
-  &fontColor=ffffff  
-  &fontWeight=700  
-  &background=0a64ad,0054a6  
-)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Hello%20World!%20I'm%20Arjun%20👋&fontSize=48&animation=fadeIn&fontColor=ffffff&fontWeight=700&background=0a64ad,0054a6)
 
 ---
 
